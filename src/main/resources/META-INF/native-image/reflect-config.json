@@ -1,0 +1,13 @@
+[
+  {
+    "name": "com.davidparry.quote.service.Joke",
+    "allDeclaredConstructors": true,
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "value",
+        "parameterTypes": [ ]
+      }
+    ]
+  }
+]
